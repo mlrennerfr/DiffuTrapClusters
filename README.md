@@ -6,4 +6,4 @@ Add folder "DiffuTrapClusters" to the search directory of Matlab. The code was t
 Please find further instructions in the file "DiffuTrapClusters.pdf"
 
 Citation:
-Kokolaki, Fauquier and Renner (2020), "The good and the bad of molecular crowding for the diffusion-capture of molecules in synapses". Manuscript under revision.
+Kokolaki ML, Fauquier A, Renner M. (2020) Molecular Crowding and Diffusion-Capture in Synapses. iScience 23:101382. doi: 10.1016/j.isci.2020.101382. 
